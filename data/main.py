@@ -27,7 +27,7 @@ def get_youtube_recommendations(emotion, api_key):
     return None
 
 # Your YouTube Data API key
-api_key = 'YOUR_YOUTUBE_API_KEY'
+api_key = 'AIzaSyAZQ0DEDTfSFmlbaNTKOYexF2iffP9zds8'
 
 # Main loop
 while True:
